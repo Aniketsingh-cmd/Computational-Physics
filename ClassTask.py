@@ -56,7 +56,7 @@ print(num2 >> 1) #output: 24 , very fast way to double or half the number
 
 #Task 6 : Relational Operators, ==(Equals) , >=(Greater/equal) , <=(Less/equal) , !=(not equal) , <(less), >(greater) 
 print(num1>num2) #false
-print(num1.is_integer() == num2.is_integer()) #True
+print(num1 == num2) #False
 
 #task 7 :Logical Operators , &&(and), ||(or), not(not)
 print(num1 >20 and num1 <40) #True ,both condition must be true
