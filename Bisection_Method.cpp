@@ -4,6 +4,9 @@
    TRANSPARENCY:
    Handwritten Approach is Shared. Code Is Not Generated With AI
    But Beautified With Gemini 
+ 
+   Handwritten Approach:
+   https://drive.google.com/file/d/18gXL7AZzp0MKeFFIdB-EHsNHoOPKvC9z/view?usp=sharing
 */
 using namespace std;
 
